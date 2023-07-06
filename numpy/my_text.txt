@@ -1,0 +1,1 @@
+Here is numpy means numerical python can lead you to work with array with more faster way.
